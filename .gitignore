@@ -21,3 +21,6 @@ vendor/
 # IDEs directories
 .idea
 .vscode
+/shortenerstress-darwin-arm64
+/shortenertestbeta-darwin-arm64
+/cmd/shortener/server-binary
